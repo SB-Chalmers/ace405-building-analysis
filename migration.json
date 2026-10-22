@@ -1,0 +1,44 @@
+{
+  "source_repository": "SB-Chalmers/ComputationSustainableDesign",
+  "source_commit": "7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba",
+  "migration_date": "2026-10-22",
+  "repository": "SB-Chalmers/ace405-building-analysis",
+  "source_folders": [
+    "Grasshopper Scripts/ACE405_bps_lca_script/"
+  ],
+  "history": "Relevant source history retained with git-filter-repo; regenerable outputs/backups and downloadable large assets excluded.",
+  "files": [
+    {
+      "path": "230904ace405_analysis_script.gh",
+      "source_path": "Grasshopper Scripts/ACE405_bps_lca_script/230904ace405_analysis_script.gh",
+      "status": "included",
+      "size": 512948,
+      "sha256": "c3923c73bf9dbe4144b7a9766d20dabfe63d3f9dd51d86fda268cce2e1cd7687",
+      "source_url": "https://github.com/SB-Chalmers/ComputationSustainableDesign/blob/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/ACE405_bps_lca_script/230904ace405_analysis_script.gh",
+      "download_url": "https://raw.githubusercontent.com/SB-Chalmers/ComputationSustainableDesign/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/ACE405_bps_lca_script/230904ace405_analysis_script.gh",
+      "migrated_sha256": "c3923c73bf9dbe4144b7a9766d20dabfe63d3f9dd51d86fda268cce2e1cd7687"
+    },
+    {
+      "path": "img/screenshot.png",
+      "source_path": "Grasshopper Scripts/ACE405_bps_lca_script/img/screenshot.png",
+      "status": "included",
+      "size": 56122,
+      "sha256": "1a03cf9305eda5858dc4c73502191a4a1af0fc0d99e064c54c5f6f507c6fa1ff",
+      "source_url": "https://github.com/SB-Chalmers/ComputationSustainableDesign/blob/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/ACE405_bps_lca_script/img/screenshot.png",
+      "download_url": "https://raw.githubusercontent.com/SB-Chalmers/ComputationSustainableDesign/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/ACE405_bps_lca_script/img/screenshot.png",
+      "migrated_sha256": "1a03cf9305eda5858dc4c73502191a4a1af0fc0d99e064c54c5f6f507c6fa1ff"
+    },
+    {
+      "path": "docs/original-readme.md",
+      "source_path": "Grasshopper Scripts/ACE405_bps_lca_script/readme.md",
+      "status": "included",
+      "size": 1160,
+      "sha256": "71f902f94af4745aa83b856e0303b4399a9bd6b5ea678b120f6b323f16c44d6f",
+      "source_url": "https://github.com/SB-Chalmers/ComputationSustainableDesign/blob/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/ACE405_bps_lca_script/readme.md",
+      "download_url": "https://raw.githubusercontent.com/SB-Chalmers/ComputationSustainableDesign/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/ACE405_bps_lca_script/readme.md",
+      "documentation_relocated": true,
+      "documentation_links_updated": true,
+      "migrated_sha256": "a510bf190c46a06741cbddbe9155ba30455cca11bd6be65d7df7ac9b34088dba"
+    }
+  ]
+}

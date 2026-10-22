@@ -15,7 +15,7 @@ This script was first developed to support the learning in the master's course A
 
 * Open the .gh script in Grasshopper for Rhino 7 and follow the instructions in the script to define and analyse a building model
 
-![Overview of script](img/screenshot.png)
+![Overview of script](../img/screenshot.png)
 
 ### Submodules
 
